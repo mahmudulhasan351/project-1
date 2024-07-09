@@ -150,6 +150,12 @@ ul {
   .about {
     position: relative;
   }
+  .abouttext{
+    position: absolute;
+    top: 250px;
+    left: 30%;
+   color: #75ff69;
+  }
   .textim {
     position: absolute;
     top: 350px;
@@ -599,6 +605,10 @@ ul {
       position: relative;
       top: 80px;
       left: 185px;
+    }
+    .im4{
+          width: 400px;
+          left: 0px;
     }
     .footer {
       position: relative;
